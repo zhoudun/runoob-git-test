@@ -1,3 +1,3 @@
-菜鸟教程git测试
-第一次修改内容
+the tutorial of Git for freshman
+the first modification
 
